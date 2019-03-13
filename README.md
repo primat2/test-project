@@ -1,1 +1,1 @@
-# I'm just figuring out what is git-hub
+# I'm just figuring out what git-hub is
